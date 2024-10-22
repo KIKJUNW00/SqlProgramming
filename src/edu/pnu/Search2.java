@@ -2,7 +2,7 @@ package edu.pnu;
 
 import java.util.Scanner;
 
-public class Search {
+public class Search2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("실행할 시스템을 고르시오");
@@ -10,11 +10,11 @@ public class Search {
 		int num = sc.nextInt();
 		switch (num) {
 		case 1:
-			  QueryStatement.main(args);
+			  QueryStatement2.main(args);
 			break;
 
 		case 2:
-			 QueryPreparedStatement.main(args);
+			 QueryPreparedStatement2.main(args);
              break;
 		}
 	}

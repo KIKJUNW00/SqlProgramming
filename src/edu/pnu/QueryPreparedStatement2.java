@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class QueryPreparedStatement {
+public class QueryPreparedStatement2 {
 	
 	private static Scanner sc = new Scanner(System.in);
 	

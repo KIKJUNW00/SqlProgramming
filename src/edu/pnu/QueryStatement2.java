@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class QueryStatement {
+public class QueryStatement2 {
 
 	private static Scanner sc = new Scanner(System.in);
 

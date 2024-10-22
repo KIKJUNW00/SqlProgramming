@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class QueryByStatment {
+public class QueryByStatment2 {
 	public static void main(String[] args) {
 		Connection con = null;
 		Statement st = null;

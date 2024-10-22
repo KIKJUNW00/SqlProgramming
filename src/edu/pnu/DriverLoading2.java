@@ -1,6 +1,6 @@
 package edu.pnu;
 
-public class DriverLoading {
+public class DriverLoading2 {
 	public static void main(String[] args) {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
