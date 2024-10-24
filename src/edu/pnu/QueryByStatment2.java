@@ -27,6 +27,7 @@ public class QueryByStatment2 {
 				System.out.println(rs.getString("district")+",");
 				System.out.println(rs.getInt("population")+"\n");
 			}
+			
 		} catch (Exception e) {
 			System.out.println("연결 실패: "+e.getMessage());
 		}finally {
